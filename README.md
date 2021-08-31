@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeusslayer
 - 👀 I’m interested in ... LANGUAGES!
-- 🌱 I’m currently learning ... Flutter!
+- 🌱 I’m currently learning ... React JS!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 99burak@gmail.com
 
